@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SMS Client</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>com.ti.ccstudio.managedbuild.core.ccsNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>rf24g_2.c</name>
+			<type>1</type>
+			<location>C:/Users/Vishal/Documents/TIworkspace/SMS Server/rf24g_2.c</location>
+		</link>
+		<link>
+			<name>rf24g_2.h</name>
+			<type>1</type>
+			<location>C:/Users/Vishal/Documents/TIworkspace/SMS Server/rf24g_2.h</location>
+		</link>
+	</linkedResources>
+</projectDescription>

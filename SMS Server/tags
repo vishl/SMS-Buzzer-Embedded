@@ -1,0 +1,407 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ADDR1_0	rf24g_2.c	/^#define ADDR1_0 /;"	d	file:
+ADDR1_1	rf24g_2.c	/^#define ADDR1_1 /;"	d	file:
+ADDR1_2	rf24g_2.c	/^#define ADDR1_2 /;"	d	file:
+ADDR1_3	rf24g_2.c	/^#define ADDR1_3 /;"	d	file:
+ADDR1_4	rf24g_2.c	/^#define ADDR1_4 /;"	d	file:
+ADDR2_0	rf24g_2.c	/^#define ADDR2_0 /;"	d	file:
+ADDR2_1	rf24g_2.c	/^#define ADDR2_1 /;"	d	file:
+ADDR2_2	rf24g_2.c	/^#define ADDR2_2 /;"	d	file:
+ADDR2_3	rf24g_2.c	/^#define ADDR2_3 /;"	d	file:
+ADDR2_4	rf24g_2.c	/^#define ADDR2_4 /;"	d	file:
+ADDR_W_1_BYTE	rf24g_2.c	/^#define ADDR_W_1_BYTE /;"	d	file:
+ADDR_W_2_BYTE	rf24g_2.c	/^#define ADDR_W_2_BYTE /;"	d	file:
+ADDR_W_3_BYTE	rf24g_2.c	/^#define ADDR_W_3_BYTE /;"	d	file:
+ADDR_W_4_BYTE	rf24g_2.c	/^#define ADDR_W_4_BYTE /;"	d	file:
+ADDR_W_5_BYTE	rf24g_2.c	/^#define ADDR_W_5_BYTE /;"	d	file:
+BIT_CLEAR	rf24g.c	/^#define BIT_CLEAR(/;"	d	file:
+BIT_CLEAR	rf24g_2.c	/^#define BIT_CLEAR(/;"	d	file:
+BIT_SET	rf24g.c	/^#define BIT_SET(/;"	d	file:
+BIT_SET	rf24g_2.c	/^#define BIT_SET(/;"	d	file:
+BIT_TEST	rf24g.c	/^#define BIT_TEST(/;"	d	file:
+BIT_TEST	rf24g_2.c	/^#define BIT_TEST(/;"	d	file:
+BUF_MAX	rf24g_2.c	/^#define BUF_MAX /;"	d	file:
+BUTTON	main.c	/^#define     BUTTON /;"	d	file:
+BUTTON_DIR	main.c	/^#define     BUTTON_DIR /;"	d	file:
+BUTTON_IE	main.c	/^#define     BUTTON_IE /;"	d	file:
+BUTTON_IES	main.c	/^#define     BUTTON_IES /;"	d	file:
+BUTTON_IFG	main.c	/^#define     BUTTON_IFG /;"	d	file:
+BUTTON_IN	main.c	/^#define     BUTTON_IN /;"	d	file:
+BUTTON_OUT	main.c	/^#define     BUTTON_OUT /;"	d	file:
+BUTTON_REN	main.c	/^#define     BUTTON_REN /;"	d	file:
+BitCnt	main.c	/^char BitCnt;$/;"	v
+Bitime	main.c	/^#define     Bitime /;"	d	file:
+Bitime_5	main.c	/^#define     Bitime_5 /;"	d	file:
+CLKDELAY	rf24g_2.c	/^#define CLKDELAY(/;"	d	file:
+CM_DIRECT	rf24g_2.c	/^#define CM_DIRECT /;"	d	file:
+CM_SHOCKBURST	rf24g_2.c	/^#define CM_SHOCKBURST /;"	d	file:
+CRC_EN_DISABLE	rf24g_2.c	/^#define CRC_EN_DISABLE /;"	d	file:
+CRC_EN_ENABLE	rf24g_2.c	/^#define CRC_EN_ENABLE /;"	d	file:
+CRC_L_16_BIT	rf24g_2.c	/^#define CRC_L_16_BIT /;"	d	file:
+CRC_L_8_BIT	rf24g_2.c	/^#define CRC_L_8_BIT /;"	d	file:
+CSDELAY	rf24g_2.c	/^#define CSDELAY(/;"	d	file:
+DATA1_W	rf24g_2.c	/^#define DATA1_W /;"	d	file:
+DATA2_W	rf24g_2.c	/^#define DATA2_W /;"	d	file:
+EchoTest	main.c	/^void EchoTest()$/;"	f
+InitializeButton	main.c	/^void InitializeButton(void)              $/;"	f
+InitializeClocks	main.c	/^void InitializeClocks(void)$/;"	f
+InitializeLeds	main.c	/^void InitializeLeds(void)$/;"	f
+InitializeSerial	main.c	/^void InitializeSerial(void)$/;"	f
+LED0	main.c	/^#define     LED0 /;"	d	file:
+LED1	main.c	/^#define     LED1 /;"	d	file:
+LED_DIR	main.c	/^#define     LED_DIR /;"	d	file:
+LED_OUT	main.c	/^#define     LED_OUT /;"	d	file:
+NODE_ADDRESS	rf24g.c	/^#define NODE_ADDRESS /;"	d	file:
+PACKETSIZE	rf24g.c	/^#define PACKETSIZE /;"	d	file:
+PWUPDELAY	rf24g_2.c	/^#define PWUPDELAY(/;"	d	file:
+Port_1	main.c	/^__interrupt void Port_1(void)$/;"	f
+RF24G_configureReceiver	rf24g.c	/^void RF24G_configureReceiver(void)$/;"	f
+RF24G_configureTransmitter	rf24g.c	/^void RF24G_configureTransmitter(void)$/;"	f
+RF24G_receiveData	rf24g.c	/^void RF24G_receiveData(void)$/;"	f
+RF24G_transmitData	rf24g.c	/^void RF24G_transmitData(void)$/;"	f
+RFDR_SB_1_MBPS	rf24g_2.c	/^#define RFDR_SB_1_MBPS /;"	d	file:
+RFDR_SB_250_KBPS	rf24g_2.c	/^#define RFDR_SB_250_KBPS /;"	d	file:
+RFTest	main.c	/^void RFTest()$/;"	f
+RF_24G_Buffer	rf24g_2.c	/^uint8_t RF_24G_Buffer[BUF_MAX]; $/;"	v
+RF_24G_CE_BIT	rf24g_2.c	/^#define RF_24G_CE_BIT /;"	d	file:
+RF_24G_CE_DIR	rf24g_2.c	/^#define RF_24G_CE_DIR /;"	d	file:
+RF_24G_CE_PORT	rf24g_2.c	/^#define RF_24G_CE_PORT /;"	d	file:
+RF_24G_CLK1_BIT	rf24g_2.c	/^#define RF_24G_CLK1_BIT /;"	d	file:
+RF_24G_CLK1_DIR	rf24g_2.c	/^#define RF_24G_CLK1_DIR /;"	d	file:
+RF_24G_CLK1_PORT	rf24g_2.c	/^#define RF_24G_CLK1_PORT /;"	d	file:
+RF_24G_CS_BIT	rf24g_2.c	/^#define RF_24G_CS_BIT /;"	d	file:
+RF_24G_CS_DIR	rf24g_2.c	/^#define RF_24G_CS_DIR /;"	d	file:
+RF_24G_CS_PORT	rf24g_2.c	/^#define RF_24G_CS_PORT /;"	d	file:
+RF_24G_Config	rf24g_2.c	/^void RF_24G_Config() $/;"	f
+RF_24G_DATA_BIT	rf24g_2.c	/^#define RF_24G_DATA_BIT /;"	d	file:
+RF_24G_DATA_DIR	rf24g_2.c	/^#define RF_24G_DATA_DIR /;"	d	file:
+RF_24G_DATA_IN_PORT	rf24g_2.c	/^#define RF_24G_DATA_IN_PORT /;"	d	file:
+RF_24G_DATA_OUT_PORT	rf24g_2.c	/^#define RF_24G_DATA_OUT_PORT /;"	d	file:
+RF_24G_DR1_BIT	rf24g_2.c	/^#define RF_24G_DR1_BIT /;"	d	file:
+RF_24G_DR1_DIR	rf24g_2.c	/^#define RF_24G_DR1_DIR /;"	d	file:
+RF_24G_DR1_PORT	rf24g_2.c	/^#define RF_24G_DR1_PORT /;"	d	file:
+RF_24G_PAYLOADSIZE	rf24g_2.h	/^#define RF_24G_PAYLOADSIZE /;"	d
+RF_24G_SetRx	rf24g_2.c	/^void RF_24G_SetRx() $/;"	f
+RF_24G_SetTx	rf24g_2.c	/^void RF_24G_SetTx() $/;"	f
+RF_24G_init	rf24g_2.c	/^void RF_24G_init() $/;"	f
+RF_CH	rf24g_2.c	/^#define RF_CH /;"	d	file:
+RF_PWR_0DB	rf24g_2.c	/^#define RF_PWR_0DB /;"	d	file:
+RF_PWR_N10DB	rf24g_2.c	/^#define RF_PWR_N10DB /;"	d	file:
+RF_PWR_N20DB	rf24g_2.c	/^#define RF_PWR_N20DB /;"	d	file:
+RF_PWR_N5DB	rf24g_2.c	/^#define RF_PWR_N5DB /;"	d	file:
+RX2_EN_DISABLE	rf24g_2.c	/^#define RX2_EN_DISABLE /;"	d	file:
+RX2_EN_ENABLE	rf24g_2.c	/^#define RX2_EN_ENABLE /;"	d	file:
+RXD	main.c	/^#define     RXD /;"	d	file:
+RXEN_RX	rf24g_2.c	/^#define RXEN_RX /;"	d	file:
+RXEN_TX	rf24g_2.c	/^#define RXEN_TX /;"	d	file:
+RX_CE_BIT	rf24g.c	/^#define RX_CE_BIT$/;"	d	file:
+RX_CE_PORT	rf24g.c	/^#define RX_CE_PORT$/;"	d	file:
+RX_CLK1_BIT	rf24g.c	/^#define RX_CLK1_BIT$/;"	d	file:
+RX_CLK1_PORT	rf24g.c	/^#define RX_CLK1_PORT$/;"	d	file:
+RX_CS_BIT	rf24g.c	/^#define RX_CS_BIT$/;"	d	file:
+RX_CS_PORT	rf24g.c	/^#define RX_CS_PORT$/;"	d	file:
+RX_DATA_BIT	rf24g.c	/^#define RX_DATA_BIT$/;"	d	file:
+RX_DATA_PORT	rf24g.c	/^#define RX_DATA_PORT$/;"	d	file:
+RX_DR_BIT	rf24g.c	/^#define RX_DR_BIT$/;"	d	file:
+RX_DR_PORT	rf24g.c	/^#define RX_DR_PORT$/;"	d	file:
+RX_Ready	main.c	/^void RX_Ready (void)$/;"	f
+RecvMode	main.c	/^void RecvMode(void)$/;"	f
+RxData	main.c	/^unsigned int RxData;$/;"	v
+TEST	main.c	/^#define     TEST /;"	d	file:
+TXD	main.c	/^#define     TXD /;"	d	file:
+TX_Byte	main.c	/^void TX_Byte (void)$/;"	f
+TX_CE_BIT	rf24g.c	/^#define TX_CE_BIT$/;"	d	file:
+TX_CE_PORT	rf24g.c	/^#define TX_CE_PORT$/;"	d	file:
+TX_CLK1_BIT	rf24g.c	/^#define TX_CLK1_BIT$/;"	d	file:
+TX_CLK1_PORT	rf24g.c	/^#define TX_CLK1_PORT$/;"	d	file:
+TX_CS_BIT	rf24g.c	/^#define TX_CS_BIT$/;"	d	file:
+TX_CS_PORT	rf24g.c	/^#define TX_CS_PORT$/;"	d	file:
+TX_DATA_BIT	rf24g.c	/^#define TX_DATA_BIT$/;"	d	file:
+TX_DATA_PORT	rf24g.c	/^#define TX_DATA_PORT$/;"	d	file:
+Timer_A	main.c	/^__interrupt void Timer_A (void)$/;"	f
+TxData	main.c	/^unsigned int TxData;$/;"	v
+XO_F_12MHZ	rf24g_2.c	/^#define XO_F_12MHZ /;"	d	file:
+XO_F_16MHZ	rf24g_2.c	/^#define XO_F_16MHZ /;"	d	file:
+XO_F_20MHZ	rf24g_2.c	/^#define XO_F_20MHZ /;"	d	file:
+XO_F_4MHZ	rf24g_2.c	/^#define XO_F_4MHZ /;"	d	file:
+XO_F_8MHZ	rf24g_2.c	/^#define XO_F_8MHZ /;"	d	file:
+b00000000	binary.h	/^#define b00000000 /;"	d
+b00000001	binary.h	/^#define b00000001 /;"	d
+b00000010	binary.h	/^#define b00000010 /;"	d
+b00000011	binary.h	/^#define b00000011 /;"	d
+b00000100	binary.h	/^#define b00000100 /;"	d
+b00000101	binary.h	/^#define b00000101 /;"	d
+b00000110	binary.h	/^#define b00000110 /;"	d
+b00000111	binary.h	/^#define b00000111 /;"	d
+b00001000	binary.h	/^#define b00001000 /;"	d
+b00001001	binary.h	/^#define b00001001 /;"	d
+b00001010	binary.h	/^#define b00001010 /;"	d
+b00001011	binary.h	/^#define b00001011 /;"	d
+b00001100	binary.h	/^#define b00001100 /;"	d
+b00001101	binary.h	/^#define b00001101 /;"	d
+b00001110	binary.h	/^#define b00001110 /;"	d
+b00001111	binary.h	/^#define b00001111 /;"	d
+b00010000	binary.h	/^#define b00010000 /;"	d
+b00010001	binary.h	/^#define b00010001 /;"	d
+b00010010	binary.h	/^#define b00010010 /;"	d
+b00010011	binary.h	/^#define b00010011 /;"	d
+b00010100	binary.h	/^#define b00010100 /;"	d
+b00010101	binary.h	/^#define b00010101 /;"	d
+b00010110	binary.h	/^#define b00010110 /;"	d
+b00010111	binary.h	/^#define b00010111 /;"	d
+b00011000	binary.h	/^#define b00011000 /;"	d
+b00011001	binary.h	/^#define b00011001 /;"	d
+b00011010	binary.h	/^#define b00011010 /;"	d
+b00011011	binary.h	/^#define b00011011 /;"	d
+b00011100	binary.h	/^#define b00011100 /;"	d
+b00011101	binary.h	/^#define b00011101 /;"	d
+b00011110	binary.h	/^#define b00011110 /;"	d
+b00011111	binary.h	/^#define b00011111 /;"	d
+b00100000	binary.h	/^#define b00100000 /;"	d
+b00100001	binary.h	/^#define b00100001 /;"	d
+b00100010	binary.h	/^#define b00100010 /;"	d
+b00100011	binary.h	/^#define b00100011 /;"	d
+b00100100	binary.h	/^#define b00100100 /;"	d
+b00100101	binary.h	/^#define b00100101 /;"	d
+b00100110	binary.h	/^#define b00100110 /;"	d
+b00100111	binary.h	/^#define b00100111 /;"	d
+b00101000	binary.h	/^#define b00101000 /;"	d
+b00101001	binary.h	/^#define b00101001 /;"	d
+b00101010	binary.h	/^#define b00101010 /;"	d
+b00101011	binary.h	/^#define b00101011 /;"	d
+b00101100	binary.h	/^#define b00101100 /;"	d
+b00101101	binary.h	/^#define b00101101 /;"	d
+b00101110	binary.h	/^#define b00101110 /;"	d
+b00101111	binary.h	/^#define b00101111 /;"	d
+b00110000	binary.h	/^#define b00110000 /;"	d
+b00110001	binary.h	/^#define b00110001 /;"	d
+b00110010	binary.h	/^#define b00110010 /;"	d
+b00110011	binary.h	/^#define b00110011 /;"	d
+b00110100	binary.h	/^#define b00110100 /;"	d
+b00110101	binary.h	/^#define b00110101 /;"	d
+b00110110	binary.h	/^#define b00110110 /;"	d
+b00110111	binary.h	/^#define b00110111 /;"	d
+b00111000	binary.h	/^#define b00111000 /;"	d
+b00111001	binary.h	/^#define b00111001 /;"	d
+b00111010	binary.h	/^#define b00111010 /;"	d
+b00111011	binary.h	/^#define b00111011 /;"	d
+b00111100	binary.h	/^#define b00111100 /;"	d
+b00111101	binary.h	/^#define b00111101 /;"	d
+b00111110	binary.h	/^#define b00111110 /;"	d
+b00111111	binary.h	/^#define b00111111 /;"	d
+b01000000	binary.h	/^#define b01000000 /;"	d
+b01000001	binary.h	/^#define b01000001 /;"	d
+b01000010	binary.h	/^#define b01000010 /;"	d
+b01000011	binary.h	/^#define b01000011 /;"	d
+b01000100	binary.h	/^#define b01000100 /;"	d
+b01000101	binary.h	/^#define b01000101 /;"	d
+b01000110	binary.h	/^#define b01000110 /;"	d
+b01000111	binary.h	/^#define b01000111 /;"	d
+b01001000	binary.h	/^#define b01001000 /;"	d
+b01001001	binary.h	/^#define b01001001 /;"	d
+b01001010	binary.h	/^#define b01001010 /;"	d
+b01001011	binary.h	/^#define b01001011 /;"	d
+b01001100	binary.h	/^#define b01001100 /;"	d
+b01001101	binary.h	/^#define b01001101 /;"	d
+b01001110	binary.h	/^#define b01001110 /;"	d
+b01001111	binary.h	/^#define b01001111 /;"	d
+b01010000	binary.h	/^#define b01010000 /;"	d
+b01010001	binary.h	/^#define b01010001 /;"	d
+b01010010	binary.h	/^#define b01010010 /;"	d
+b01010011	binary.h	/^#define b01010011 /;"	d
+b01010100	binary.h	/^#define b01010100 /;"	d
+b01010101	binary.h	/^#define b01010101 /;"	d
+b01010110	binary.h	/^#define b01010110 /;"	d
+b01010111	binary.h	/^#define b01010111 /;"	d
+b01011000	binary.h	/^#define b01011000 /;"	d
+b01011001	binary.h	/^#define b01011001 /;"	d
+b01011010	binary.h	/^#define b01011010 /;"	d
+b01011011	binary.h	/^#define b01011011 /;"	d
+b01011100	binary.h	/^#define b01011100 /;"	d
+b01011101	binary.h	/^#define b01011101 /;"	d
+b01011110	binary.h	/^#define b01011110 /;"	d
+b01011111	binary.h	/^#define b01011111 /;"	d
+b01100000	binary.h	/^#define b01100000 /;"	d
+b01100001	binary.h	/^#define b01100001 /;"	d
+b01100010	binary.h	/^#define b01100010 /;"	d
+b01100011	binary.h	/^#define b01100011 /;"	d
+b01100100	binary.h	/^#define b01100100 /;"	d
+b01100101	binary.h	/^#define b01100101 /;"	d
+b01100110	binary.h	/^#define b01100110 /;"	d
+b01100111	binary.h	/^#define b01100111 /;"	d
+b01101000	binary.h	/^#define b01101000 /;"	d
+b01101001	binary.h	/^#define b01101001 /;"	d
+b01101010	binary.h	/^#define b01101010 /;"	d
+b01101011	binary.h	/^#define b01101011 /;"	d
+b01101100	binary.h	/^#define b01101100 /;"	d
+b01101101	binary.h	/^#define b01101101 /;"	d
+b01101110	binary.h	/^#define b01101110 /;"	d
+b01101111	binary.h	/^#define b01101111 /;"	d
+b01110000	binary.h	/^#define b01110000 /;"	d
+b01110001	binary.h	/^#define b01110001 /;"	d
+b01110010	binary.h	/^#define b01110010 /;"	d
+b01110011	binary.h	/^#define b01110011 /;"	d
+b01110100	binary.h	/^#define b01110100 /;"	d
+b01110101	binary.h	/^#define b01110101 /;"	d
+b01110110	binary.h	/^#define b01110110 /;"	d
+b01110111	binary.h	/^#define b01110111 /;"	d
+b01111000	binary.h	/^#define b01111000 /;"	d
+b01111001	binary.h	/^#define b01111001 /;"	d
+b01111010	binary.h	/^#define b01111010 /;"	d
+b01111011	binary.h	/^#define b01111011 /;"	d
+b01111100	binary.h	/^#define b01111100 /;"	d
+b01111101	binary.h	/^#define b01111101 /;"	d
+b01111110	binary.h	/^#define b01111110 /;"	d
+b01111111	binary.h	/^#define b01111111 /;"	d
+b10000000	binary.h	/^#define b10000000 /;"	d
+b10000001	binary.h	/^#define b10000001 /;"	d
+b10000010	binary.h	/^#define b10000010 /;"	d
+b10000011	binary.h	/^#define b10000011 /;"	d
+b10000100	binary.h	/^#define b10000100 /;"	d
+b10000101	binary.h	/^#define b10000101 /;"	d
+b10000110	binary.h	/^#define b10000110 /;"	d
+b10000111	binary.h	/^#define b10000111 /;"	d
+b10001000	binary.h	/^#define b10001000 /;"	d
+b10001001	binary.h	/^#define b10001001 /;"	d
+b10001010	binary.h	/^#define b10001010 /;"	d
+b10001011	binary.h	/^#define b10001011 /;"	d
+b10001100	binary.h	/^#define b10001100 /;"	d
+b10001101	binary.h	/^#define b10001101 /;"	d
+b10001110	binary.h	/^#define b10001110 /;"	d
+b10001111	binary.h	/^#define b10001111 /;"	d
+b10010000	binary.h	/^#define b10010000 /;"	d
+b10010001	binary.h	/^#define b10010001 /;"	d
+b10010010	binary.h	/^#define b10010010 /;"	d
+b10010011	binary.h	/^#define b10010011 /;"	d
+b10010100	binary.h	/^#define b10010100 /;"	d
+b10010101	binary.h	/^#define b10010101 /;"	d
+b10010110	binary.h	/^#define b10010110 /;"	d
+b10010111	binary.h	/^#define b10010111 /;"	d
+b10011000	binary.h	/^#define b10011000 /;"	d
+b10011001	binary.h	/^#define b10011001 /;"	d
+b10011010	binary.h	/^#define b10011010 /;"	d
+b10011011	binary.h	/^#define b10011011 /;"	d
+b10011100	binary.h	/^#define b10011100 /;"	d
+b10011101	binary.h	/^#define b10011101 /;"	d
+b10011110	binary.h	/^#define b10011110 /;"	d
+b10011111	binary.h	/^#define b10011111 /;"	d
+b10100000	binary.h	/^#define b10100000 /;"	d
+b10100001	binary.h	/^#define b10100001 /;"	d
+b10100010	binary.h	/^#define b10100010 /;"	d
+b10100011	binary.h	/^#define b10100011 /;"	d
+b10100100	binary.h	/^#define b10100100 /;"	d
+b10100101	binary.h	/^#define b10100101 /;"	d
+b10100110	binary.h	/^#define b10100110 /;"	d
+b10100111	binary.h	/^#define b10100111 /;"	d
+b10101000	binary.h	/^#define b10101000 /;"	d
+b10101001	binary.h	/^#define b10101001 /;"	d
+b10101010	binary.h	/^#define b10101010 /;"	d
+b10101011	binary.h	/^#define b10101011 /;"	d
+b10101100	binary.h	/^#define b10101100 /;"	d
+b10101101	binary.h	/^#define b10101101 /;"	d
+b10101110	binary.h	/^#define b10101110 /;"	d
+b10101111	binary.h	/^#define b10101111 /;"	d
+b10110000	binary.h	/^#define b10110000 /;"	d
+b10110001	binary.h	/^#define b10110001 /;"	d
+b10110010	binary.h	/^#define b10110010 /;"	d
+b10110011	binary.h	/^#define b10110011 /;"	d
+b10110100	binary.h	/^#define b10110100 /;"	d
+b10110101	binary.h	/^#define b10110101 /;"	d
+b10110110	binary.h	/^#define b10110110 /;"	d
+b10110111	binary.h	/^#define b10110111 /;"	d
+b10111000	binary.h	/^#define b10111000 /;"	d
+b10111001	binary.h	/^#define b10111001 /;"	d
+b10111010	binary.h	/^#define b10111010 /;"	d
+b10111011	binary.h	/^#define b10111011 /;"	d
+b10111100	binary.h	/^#define b10111100 /;"	d
+b10111101	binary.h	/^#define b10111101 /;"	d
+b10111110	binary.h	/^#define b10111110 /;"	d
+b10111111	binary.h	/^#define b10111111 /;"	d
+b11000000	binary.h	/^#define b11000000 /;"	d
+b11000001	binary.h	/^#define b11000001 /;"	d
+b11000010	binary.h	/^#define b11000010 /;"	d
+b11000011	binary.h	/^#define b11000011 /;"	d
+b11000100	binary.h	/^#define b11000100 /;"	d
+b11000101	binary.h	/^#define b11000101 /;"	d
+b11000110	binary.h	/^#define b11000110 /;"	d
+b11000111	binary.h	/^#define b11000111 /;"	d
+b11001000	binary.h	/^#define b11001000 /;"	d
+b11001001	binary.h	/^#define b11001001 /;"	d
+b11001010	binary.h	/^#define b11001010 /;"	d
+b11001011	binary.h	/^#define b11001011 /;"	d
+b11001100	binary.h	/^#define b11001100 /;"	d
+b11001101	binary.h	/^#define b11001101 /;"	d
+b11001110	binary.h	/^#define b11001110 /;"	d
+b11001111	binary.h	/^#define b11001111 /;"	d
+b11010000	binary.h	/^#define b11010000 /;"	d
+b11010001	binary.h	/^#define b11010001 /;"	d
+b11010010	binary.h	/^#define b11010010 /;"	d
+b11010011	binary.h	/^#define b11010011 /;"	d
+b11010100	binary.h	/^#define b11010100 /;"	d
+b11010101	binary.h	/^#define b11010101 /;"	d
+b11010110	binary.h	/^#define b11010110 /;"	d
+b11010111	binary.h	/^#define b11010111 /;"	d
+b11011000	binary.h	/^#define b11011000 /;"	d
+b11011001	binary.h	/^#define b11011001 /;"	d
+b11011010	binary.h	/^#define b11011010 /;"	d
+b11011011	binary.h	/^#define b11011011 /;"	d
+b11011100	binary.h	/^#define b11011100 /;"	d
+b11011101	binary.h	/^#define b11011101 /;"	d
+b11011110	binary.h	/^#define b11011110 /;"	d
+b11011111	binary.h	/^#define b11011111 /;"	d
+b11100000	binary.h	/^#define b11100000 /;"	d
+b11100001	binary.h	/^#define b11100001 /;"	d
+b11100010	binary.h	/^#define b11100010 /;"	d
+b11100011	binary.h	/^#define b11100011 /;"	d
+b11100100	binary.h	/^#define b11100100 /;"	d
+b11100101	binary.h	/^#define b11100101 /;"	d
+b11100110	binary.h	/^#define b11100110 /;"	d
+b11100111	binary.h	/^#define b11100111 /;"	d
+b11101000	binary.h	/^#define b11101000 /;"	d
+b11101001	binary.h	/^#define b11101001 /;"	d
+b11101010	binary.h	/^#define b11101010 /;"	d
+b11101011	binary.h	/^#define b11101011 /;"	d
+b11101100	binary.h	/^#define b11101100 /;"	d
+b11101101	binary.h	/^#define b11101101 /;"	d
+b11101110	binary.h	/^#define b11101110 /;"	d
+b11101111	binary.h	/^#define b11101111 /;"	d
+b11110000	binary.h	/^#define b11110000 /;"	d
+b11110001	binary.h	/^#define b11110001 /;"	d
+b11110010	binary.h	/^#define b11110010 /;"	d
+b11110011	binary.h	/^#define b11110011 /;"	d
+b11110100	binary.h	/^#define b11110100 /;"	d
+b11110101	binary.h	/^#define b11110101 /;"	d
+b11110110	binary.h	/^#define b11110110 /;"	d
+b11110111	binary.h	/^#define b11110111 /;"	d
+b11111000	binary.h	/^#define b11111000 /;"	d
+b11111001	binary.h	/^#define b11111001 /;"	d
+b11111010	binary.h	/^#define b11111010 /;"	d
+b11111011	binary.h	/^#define b11111011 /;"	d
+b11111100	binary.h	/^#define b11111100 /;"	d
+b11111101	binary.h	/^#define b11111101 /;"	d
+b11111110	binary.h	/^#define b11111110 /;"	d
+b11111111	binary.h	/^#define b11111111 /;"	d
+counter	rf24g.c	/^uint8_t counter;$/;"	v
+data_array	rf24g.c	/^uint8_t data_array[PACKETSIZE];$/;"	v
+false	main.c	/^#define     false /;"	d	file:
+getBuffer	rf24g_2.c	/^void getBuffer() $/;"	f
+getByte	rf24g_2.c	/^uint8_t getByte() $/;"	f
+getc	main.c	/^int getc(char *c)$/;"	f
+hasData	rf24g_2.c	/^int hasData()$/;"	f
+main	main.c	/^void main(void)$/;"	f
+packet_number	rf24g.c	/^uint8_t packet_number;$/;"	v
+putBuffer	rf24g_2.c	/^void putBuffer() $/;"	f
+putByte	rf24g_2.c	/^void putByte( uint8_t b ) $/;"	f
+putc	main.c	/^void putc(const char c)$/;"	f
+putc_i	main.c	/^void putc_i(const char c)$/;"	f
+puts	main.c	/^void puts(const char * s)$/;"	f
+recvFlag	main.c	/^volatile int recvFlag=0;$/;"	v
+setInput	rf24g_2.c	/^void setInput()$/;"	f
+setOutput	rf24g_2.c	/^void setOutput()$/;"	f
+true	main.c	/^#define     true /;"	d	file:
+uint8_t	rf24g_2.h	/^typedef unsigned char uint8_t;$/;"	t
